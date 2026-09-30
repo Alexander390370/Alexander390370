@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi there, I'm Alexander
 
-<!--
-**Alexander390370/Alexander390370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 21-year-old developer based in China, currently exploring the intersection of AIoT, edge AI, and embedded systems.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm Working With
+- **Hardware**: BGA rework, motherboard repair, edge device integration
+- **IoT / Embedded**: ESP32, MQTT, multi-sensor fusion
+- **AI / Edge**: Ollama, YOLOv8, Whisper, local LLM deployment, Agent workstations
+- **Full-Stack**: WSL2, Docker, FastAPI, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Focused On Right Now
+- Building **OmniForge** — an AI-powered data annotation tool for startup clients
+- Experimenting with running 27B quantized LLMs on 8GB VRAM devices
+- Exploring how to bridge physical hardware and AI intelligence
+
+### 📫 How to Reach Me
+- GitHub: 
+
+*"Bringing AI from the cloud to the edge, one device at a time."*
