@@ -14,6 +14,6 @@ I'm a 21-year-old developer based in China, currently exploring the intersection
 - Exploring how to bridge physical hardware and AI intelligence
 
 ### 📫 How to Reach Me
-- GitHub: 
+- GitHub:[@Alexander390370](https://github.com/Alexander390370)
 
 *"Bringing AI from the cloud to the edge, one device at a time."*
