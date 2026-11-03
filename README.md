@@ -81,6 +81,7 @@
 
 - GitHub: [@Alexander390370](https://github.com/Alexander390370)
 - Email: 3424672413@qq.com
+- zhangjiulong130@gmail.com
 
 ---
 
